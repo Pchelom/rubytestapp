@@ -1,0 +1,4 @@
+app1.rb
+Application for first testing task, that takes two dates in Unix timestamp and returns their substraction in human readible format.
+app2.rb
+Application for second testing task, that takes hardcoded formated date and returns an array of dates from given point to 5 days later according to task case. 
